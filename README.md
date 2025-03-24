@@ -6,6 +6,7 @@
 
 #
 
+- 🏫 Cursando o 3° do EM
 - 📚 Cursando o ultimo ano no curso Técnico em Desenvolvimento de Sistemas
 - 💻 Dev. Júnior em Full Stack
   

@@ -4,11 +4,14 @@
   </a>
 </div>
 
+#
+
 - 📚 Cursando o ultimo ano no curso Técnico em Desenvolvimento de Sistemas
 - 💻 Dev. Júnior em Full Stack
   
-<br clear="both">
 
+
+#
 
 ###
 
@@ -38,6 +41,8 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
+
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeBaruchB/GuilhermeBaruchB/output/github-contribution-grid-snake-dark.svg">

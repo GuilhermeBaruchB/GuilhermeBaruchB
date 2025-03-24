@@ -35,16 +35,3 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/GuilhermeBaruchB/count.svg?"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GuilhermeBaruchB/GuilhermeBaruchB/output/snake.svg" alt="Snake animation" />
-
-###
